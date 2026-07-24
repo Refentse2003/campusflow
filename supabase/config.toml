@@ -1,0 +1,9 @@
+project_id = "ciyrtjmzgxvpysmtftyt"
+
+[functions]
+
+[functions.send-notification-email]
+verify_jwt = false
+
+[functions.create-tutor-accounts]
+verify_jwt = false
